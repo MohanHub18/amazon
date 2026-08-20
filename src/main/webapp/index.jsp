@@ -21,8 +21,8 @@
 </head>
 <body>
 
-  <!-- Amazon Navbar Container -->
-  <header class="amazon-navbar">
+  <!-- Amazon Cloud Container -->
+  <header class="amazon-Cloud">
     
     <!-- Logo -->
     <div class="nav-logo">amazon</div>
